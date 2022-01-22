@@ -29,8 +29,8 @@ However, many phishing repositories end up providing data info very unbalanced, 
 ## Download section
 |  Year   |    Link   |  Last update |
 |  :---:  |   :---:   |    :---:     |
-|  2016   |  download |  2022-01-22  |
-|  2017   |  download |  2022-01-22  |
-|  2018   |  download |  2022-01-22  |
-|  2019   |  download |  2022-01-22  |
-|  2020   |  download |  2022-01-22  |
+|  2016   |  [phish_sample_2016.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2016.7z) |  2022-01-22  |
+|  2017   |  [phish_sample_2017.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2017.7z) |  2022-01-22  |
+|  2018   |  [phish_sample_2018.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2018.7z) |  2022-01-22  |
+|  2019   |  [phish_sample_2019.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2019.7z) |  2022-01-22  |
+|  2020   |  [phish_sample_2020.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2020.7z) |  2022-01-22  |
