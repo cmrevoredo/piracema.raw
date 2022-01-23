@@ -18,13 +18,54 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |  2020   |     218,522     |         32,446         |
 
 ## Entries structure details
-|       Field       |    Type   |            Description          |
-|       :---:       |   :---:   |              :---:              |
-|         url       |  LONGTEXT |           URL's page            |
-|    arrival_time   |  DATETIME |   Timestamp of phishing report  |
-|  http_status_code |    INT    |         HTTP status code        |
-|  response_content |  LONGTEXT |        HTTP body content        |
-|    target_brand   |  VARCHAR  |    Target brand based on NLP    |
+<table>
+  <tr>
+    <td align="center"><b>Field</b></td>
+    <td align="center"><b>Type</b></td>
+    <td align="center"><b>Description</b></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Available</b></td>
+  </tr>
+  <tr>
+    <td align="center">url</td>
+    <td align="center">LONGTEXT</td>
+    <td align="center">URL's page</td>
+  </tr>
+  <tr>
+    <td align="center">arrival_time</td>
+    <td align="center">DATETIME</td>
+    <td align="center">Timestamp of phishing report</td>
+  </tr>    
+  <tr>
+    <td align="center">http_status_code</td>
+    <td align="center">INT</td>
+    <td align="center">HTTP status code</td>
+  </tr>
+  <tr>
+    <td align="center">response_content</td>
+    <td align="center">LONGTEXT</td>
+    <td align="center">HTTP body content</td>
+  </tr>
+  <tr>
+    <td align="center">target_brand</td>
+    <td align="center">VARCHAR</td>
+    <td align="center">Target brand based on NLP</td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><b>Under construction</b></td>
+  </tr>  
+  <tr>
+    <td align="center">hosting_service</td>
+    <td align="center">VARCHAR</td>
+    <td align="center">In case of the malicious page was hosted on a hosting service, this field identity the service name (only for cases where there is no registered domain)</td>
+  </tr>
+  <tr>
+    <td align="center">domain_age</td>
+    <td align="center">BIGINT</td>
+    <td align="center">Domain age based on WHOIS (only registered domains)</td>
+  </tr>
+</table>
 
 ## Download section *
 |  Year   |    Link   |  Last update |
@@ -35,6 +76,8 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |  2019   |  [phish_sample_2019.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2019.7z) |  2022-01-22  |
 |  2020p1 |  [phish_sample_2020.7z p1](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2020.7z.001) |  2022-01-22  |
 |  2020p2 |  [phish_sample_2020.7z p2](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2020.7z.002) |  2022-01-22  |
+|  2021p1 |  Under construction |  -  |
+|  2021p2 |  Under construction |  -  |
 
 *Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br
 
