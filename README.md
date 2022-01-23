@@ -1,6 +1,6 @@
 # piracema.raw
 
-*this project is part of the [piracema.io](https://piracema.io) service
+***this project is part of the [piracema.io](https://piracema.io) service
 
 The piracema.raw project proposes a free database to support the dataset definition for building phishing prediction models. The database has a time range from 2016 to 2020 and has 756,485 records.
 
@@ -10,7 +10,7 @@ Conceptually, the efficiency of this type of solution depends directly on an ade
 
 However, many phishing repositories end up providing data info very unbalanced, inconsistent, or with a series of limitations. In addition, because phishing is very volatile, there is considerable effort in storing the content-page (body's content).
 
-*On the piracema.io page, in the [Repository](https://piracema.io/repository) section, it is possible to show the piracema.raw data through an interface with filters.
+***On the piracema.io page, in the [Repository](https://piracema.io/repository) section, it is possible to show the piracema.raw data through an interface with filters.
 
 ## Entries content details
 |  Years  |   All entries   | Only with content-page |
