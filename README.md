@@ -83,6 +83,6 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |  2021p1 |  Under construction |  -  | - |
 |  2021p2 |  Under construction |  -  | - |
 
-*Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br
+**Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
 
 
