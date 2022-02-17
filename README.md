@@ -13,13 +13,13 @@ However, many phishing repositories end up providing data info very unbalanced, 
 *On the piracema.io page, in the <a href="https://piracema.io/repository" target="_blank">Repository</a> section, it is possible to show the piracema.raw data through an interface with filters.*
 
 ## Entries content details
-|  Years  |   All entries   | Only with content-page |
-|  :---:  |      :---:      |          :---:         |
-|  2016   |      75,395     |         12,266         |
-|  2017   |      96,667     |         15,356         |
-|  2018   |     189,891     |         22,412         |
-|  2019   |     176,010     |         27,574         |
-|  2020   |     218,522     |         32,446         |
+|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected |
+|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |
+|  2016  |      75,395     |      12,266       |         556              |        23595          |
+|  2017  |      96,667     |      15,356       |         1964             |        28430          |
+|  2018  |     189,891     |      22,412       |         7745             |        65608          |
+|  2019  |     176,010     |      27,574       |         18299            |        42186          |
+|  2020  |     218,522     |      32,446       |         23179            |        51658          |
 
 ## Entries structure details
 <table>
