@@ -37,7 +37,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
     <td align="center">URL's page</td>
   </tr>
   <tr>
-    <td align="center">arrival_time</td>
+    <td align="center">report_time</td>
     <td align="center">DATETIME</td>
     <td align="center">Timestamp of phishing report</td>
   </tr>    
