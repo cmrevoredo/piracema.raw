@@ -15,7 +15,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
 ## Entries content details
 |  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected |
 |  :---: |      :---:      |      :---:        |         :---:            |        :---:          |
-|  2016  |      75,395     |      12,266       |         555              |        24,114         |
+|  2016  |      75,395     |      12,266       |         555              |        24,260         |
 |  2017  |      96,667     |      15,356       |         1,964            |        28,456         |
 |  2018  |     189,891     |      22,412       |         7,745            |        65,664         |
 |  2019  |     176,010     |      27,574       |         18,299           |        42,251         |
