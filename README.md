@@ -20,7 +20,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |  2018  |     189,891     |      22,412       |         7,745            |        66,315         |
 |  2019  |     176,010     |      27,574       |         18,299           |        42,251         |
 |  2020  |     218,522     |      32,446       |         23,179           |        56,165         |
-|  2021  |     218,522     |      43,479       |         24,168           |        42,343         |
+|  2021  |     242,546     |      43,479       |         24,168           |        42,343         |
 
 ## Entries structure details
 <table>
