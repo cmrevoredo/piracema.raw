@@ -58,9 +58,6 @@ However, many phishing repositories end up providing data info very unbalanced, 
     <td align="center">Target brand based on NLP</td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><b>Under construction</b></td>
-  </tr>  
-  <tr>
     <td align="center">hosting_service</td>
     <td align="center">VARCHAR</td>
     <td align="center">In case of the malicious page was hosted on a hosting service, this field identity the service name (only for cases where there is no registered domain)</td>
