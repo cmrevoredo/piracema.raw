@@ -53,14 +53,14 @@ However, many phishing repositories end up providing data info very unbalanced, 
     <td align="center">HTTP body content of the maliciou's page</td>
   </tr>
   <tr>
-    <td align="center">target_brand</td>
-    <td align="center">VARCHAR</td>
-    <td align="center">Target brand based on Regex and NLP</td>
-  </tr>
-  <tr>
     <td align="center">hosting_service</td>
     <td align="center">VARCHAR</td>
-    <td align="center">In case of the malicious page was hosted on a hosting service, this field identity the service name (only for cases where there is no registered domain)</td>
+    <td align="center">Cases of the malicious page hosted on hosting service. This detection based on URL; when these entries with the registered domain have been discarded.</td>
+  <tr>
+    <td align="center">target_brand</td>
+    <td align="center">VARCHAR</td>
+    <td align="center">Target brand recognized based on Regex and NLP</td>
+  </tr>
   </tr>
   <tr>
     <td align="center">whois_create_time</td>
