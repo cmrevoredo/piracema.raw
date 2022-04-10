@@ -80,6 +80,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |  2020p2 |  [phish_sample_2020p2.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2020p2.7z) |  2022-01-22  | - |
 |  2021p1 |  [phish_sample_2021p1.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2021p1.7z) |  2022-01-22  | - |
 |  2021p2 |  [phish_sample_2022p2.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2021p2.7z) |  2022-01-22  | - |
+
 **Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
 
 
