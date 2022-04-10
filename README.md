@@ -13,14 +13,14 @@ However, many phishing repositories end up providing data info very unbalanced, 
 *On the piracema.io page, in the <a href="https://piracema.io/repository" target="_blank">Repository</a> section, it is possible to show the piracema.raw data through an interface with filters.*
 
 ## Entries content details
-|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected |
-|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |
-|  2016  |      75,395     |      12,266       |         555              |        24,260         |
-|  2017  |      96,664     |      15,356       |         1,964            |        28,595         |
-|  2018  |     189,891     |      22,412       |         7,745            |        66,315         |
-|  2019  |     176,010     |      27,574       |         18,299           |        42,251         |
-|  2020  |     218,522     |      32,446       |         23,179           |        56,165         |
-|  2021  |     242,546     |      43,479       |         24,168           |        42,343         |
+|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | With whois create time |
+|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |            -           | 
+|  2016  |      75,395     |      12,266       |         555              |        24,260         |            -           | 
+|  2017  |      96,664     |      15,356       |         1,964            |        28,595         |            -           | 
+|  2018  |     189,891     |      22,412       |         7,745            |        66,315         |            -           | 
+|  2019  |     176,010     |      27,574       |         18,299           |        42,251         |            -           | 
+|  2020  |     218,522     |      32,446       |         23,179           |        56,165         |            -           | 
+|  2021  |     242,546     |      43,479       |         24,168           |        42,343         |         156,696        | 
 
 ## Entries structure details
 <table>
@@ -65,7 +65,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   <tr>
     <td align="center">whois_create_time</td>
     <td align="center">BIGINT</td>
-    <td align="center">Domain age based on create time of WHOIS (only registered domains)</td>
+    <td align="center">Domain age based on create time of WHOIS (only registered domains over the 2021)</td>
   </tr>
 </table>
 
