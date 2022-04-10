@@ -63,9 +63,9 @@ However, many phishing repositories end up providing data info very unbalanced, 
     <td align="center">In case of the malicious page was hosted on a hosting service, this field identity the service name (only for cases where there is no registered domain)</td>
   </tr>
   <tr>
-    <td align="center">domain_age</td>
+    <td align="center">whois_create_time</td>
     <td align="center">BIGINT</td>
-    <td align="center">Domain age based on WHOIS (only registered domains)</td>
+    <td align="center">Domain age based on create time of WHOIS (only registered domains)</td>
   </tr>
 </table>
 
