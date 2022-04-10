@@ -65,7 +65,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   <tr>
     <td align="center">whois_create_time</td>
     <td align="center">BIGINT</td>
-    <td align="center">Domain age based on create time of WHOIS (only .com, .net and .edu registered domains over the 2021)</td>
+    <td align="center">Domain age based on create time of WHOIS (applied only .com, .net and .edu registered domains)</td>
   </tr>
 </table>
 
