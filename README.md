@@ -40,7 +40,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   <tr>
     <td align="center">report_time</td>
     <td align="center">DATETIME</td>
-    <td align="center">Timestamp of phishing report</td>
+    <td align="center">Timestamp of phishing report/catch</td>
   </tr>    
   <tr>
     <td align="center">http_status_code</td>
@@ -55,7 +55,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   <tr>
     <td align="center">target_brand</td>
     <td align="center">VARCHAR</td>
-    <td align="center">Target brand based on NLP</td>
+    <td align="center">Target brand based on Regex and NLP</td>
   </tr>
   <tr>
     <td align="center">hosting_service</td>
