@@ -15,9 +15,9 @@ However, many phishing repositories end up providing data info very unbalanced, 
 ## Entries content details
 |  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | With whois creation date |
 |  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           | 
-|  2016  |      75,395     |      12,266       |         555              |        24,512         |            -             | 
-|  2017  |      96,664     |      15,356       |         1,964            |        28,983         |            -             | 
-|  2018  |     189,891     |      22,412       |         7,745            |        67,017         |            -             | 
+|  2016  |      75,395     |      12,266       |         576              |        24,512         |            -             | 
+|  2017  |      96,664     |      15,356       |         1,972            |        28,983         |            -             | 
+|  2018  |     189,891     |      22,412       |         7,822            |        67,017         |            -             | 
 |  2019  |     176,010     |      27,574       |         18,299           |        44,418         |            -             | 
 |  2020  |     218,522     |      32,446       |         23,179           |        57,513         |            -             | 
 |  2021  |     242,546     |      43,479       |         24,168           |        43,741         |         156,696          | 
