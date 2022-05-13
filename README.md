@@ -13,14 +13,14 @@ However, many phishing repositories end up providing data info very unbalanced, 
 *On the piracema.io page, in the <a href="https://piracema.io/repository" target="_blank">Repository</a> section, it is possible to show the piracema.raw data through an interface with filters.*
 
 ## Entries content details
-|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | With whois creation date |
-|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           | 
-|  2016  |      75,388     |      12,266       |         576              |        24,508         |            -             | 
-|  2017  |      96,664     |      15,356       |         1,972            |        28,983         |            -             | 
-|  2018  |     189,883     |      22,411       |         7,822            |        67,017         |            -             | 
-|  2019  |     176,009     |      27,575       |         18,299           |        44,418         |            -             | 
-|  2020  |     218,522     |      32,446       |         23,179           |        57,513         |            -             | 
-|  2021  |     242,544     |      43,478       |         24,168           |        43,739         |         156,694          | 
+|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
+|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
+|  2016  |      75,388     |      12,266       |         576              |        24,508         |            623           |            -             | 
+|  2017  |      96,664     |      15,356       |         1,972            |        28,983         |           1,325          |            -             |  
+|  2018  |     189,883     |      22,411       |         7,822            |        67,017         |           2,539          |            -             | 
+|  2019  |     176,009     |      27,575       |         18,299           |        44,418         |           1,919          |            -             | 
+|  2020  |     218,522     |      32,446       |         23,179           |        57,513         |           1,999          |            -             |  
+|  2021  |     242,544     |      43,478       |         24,168           |        43,739         |           3,556          |         156,694          |  
 
 ## Entries structure details
 <table>
