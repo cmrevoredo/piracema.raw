@@ -56,7 +56,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   <tr>
     <td align="center">hosting_service</td>
     <td align="center">VARCHAR</td>
-    <td align="center">Cases of the malicious page hosted on hosting service. This detection based on URL; when these entries with the registered domain have been discarded.</td>
+    <td align="center">Cases of the malicious page hosted on hosting service and recognized based on Regex and NLP. This detection based on URL; when these entries with the registered domain have been discarded.</td>
   <tr>
     <td align="center">target_brand</td>
     <td align="center">VARCHAR</td>
