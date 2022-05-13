@@ -62,6 +62,11 @@ However, many phishing repositories end up providing data info very unbalanced, 
     <td align="center">VARCHAR</td>
     <td align="center">Target brand recognized based on Regex and NLP</td>
   </tr>
+  <tr>
+    <td align="center">shortly_service</td>
+    <td align="center">VARCHAR</td>
+    <td align="center">URL shortening service recognized based on Regex and NLP</td>
+  </tr>
   </tr>
   <tr>
     <td align="center">whois_creation_date</td>
