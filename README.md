@@ -2,7 +2,7 @@
 
 *this project is part of the <a href="https://piracema.io" target="_blank">piracema.io</a> service*
 
-The piracema.raw project proposes a free database to support the dataset definition for building phishing prediction models. The database has a time range from 2016 to 2021 and has 998,880 records.
+The piracema.raw project proposes a free database to support the dataset definition for building phishing prediction models. The database has a time range from 2016 to 2021 and has 942,471 records.
 
 In the fight against phishing attacks, many solutions try to minimize the incidence of these frauds. Still, these frauds continue to grow nowadays, making us reflect on the efficiency of the proposed solutions. Nevertheless, there is a significant increase in proposals in the literature that adopt Machine Learning (ML) techniques to predict phishing. 
 
@@ -15,13 +15,13 @@ However, many phishing repositories end up providing data info very unbalanced, 
 ## Entries content details
 |  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
 |  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
-|  2016  |      75,379     |      12,266       |         576              |        24,507         |           1050           |            -             | 
-|  2017  |      96,606     |      15,356       |         1,972            |        28,981         |           2,137          |            -             |  
-|  2018  |     189,866     |      22,411       |         7,822            |        67,012         |           4,038          |            -             | 
-|  2019  |     176,009     |      27,575       |         18,299           |        44,418         |           2,300          |            -             | 
-|  2020  |     218,522     |      32,446       |         23,179           |        57,513         |           2,433          |            -             |  
-|  2021  |     242,498     |      43,478       |         24,168           |        43,707         |           4,323          |         156,694          |  
-|  Total |     998,880     |     153,532       |         76,016           |       266,138         |          16,281          |         156,694          |  
+|  2016  |      75,130     |      12,202       |         572              |        24,444         |           1050           |            -             | 
+|  2017  |      96,195     |      15,307       |         1,971            |        28,887         |           2,128          |            -             |  
+|  2018  |     189,491     |      22,355       |         7,809            |        66,854         |           4,025          |            -             | 
+|  2019  |     175,976     |      27,566       |         18,294           |        44,405         |           2,296          |            -             | 
+|  2020  |     218,459     |      32,441       |         23,167           |        57,505         |           2,430          |            -             |  
+|  2021  |     187,220     |      25,671       |         18,784           |        36,321         |           3,079          |         123,285          |  
+|  Total |     942,471     |     135,542       |         70,597           |       258,416         |          13,958          |         123,285          |  
 
 ## Entries structure details
 <table>
