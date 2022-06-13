@@ -79,6 +79,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |   Year    |    Link   |  Release date | SHA256 file checksum |
 | :------:  |   :---:   |     :---:     |        :---:         |
 | 2016-2021 |  [piracema-raw-all-entries-06-2022](https://drive.google.com/file/d/1cbVhk3ZcM3n_HQi5wWJgwE0JZp6SXJhH/view?usp=sharing) |  2022-06-13  | 0e033c0c66d8ef6d2cb5007960c1e6d16b5213f4f0bc8415973aea0c7fe80665 | 
+
 **Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
 
 
