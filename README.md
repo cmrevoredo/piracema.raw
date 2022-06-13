@@ -76,17 +76,9 @@ However, many phishing repositories end up providing data info very unbalanced, 
 </table>
 
 ## Download section *
-|  Year   |    Link   |  Release date | SHA256 file checksum |
-|  :---:  |   :---:   |     :---:     |        :---:         |
-|  2016   |  [phish_sample_2016.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2016.7z) |  2022-01-22  | 303d166f8281448959421c9c467fe33aec95bae4745c8459be8e871402f31598 |
-|  2017   |  [phish_sample_2017.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2017.7z) |  2022-01-22  | - |
-|  2018   |  [phish_sample_2018.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2018.7z) |  2022-01-22  | - |
-|  2019   |  [phish_sample_2019.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2019.7z) |  2022-01-22  | - |
-|  2020p1 |  [phish_sample_2020p1.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2020p17z) |  2022-01-22  | - |
-|  2020p2 |  [phish_sample_2020p2.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2020p2.7z) |  2022-01-22  | - |
-|  2021p1 |  [phish_sample_2021p1.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2021p1.7z) |  2022-01-22  | - |
-|  2021p2 |  [phish_sample_2022p2.7z](https://github.com/cmrevoredo/piracema.raw/blob/main/phish_sample_2021p2.7z) |  2022-01-22  | - |
-
+|   Year    |    Link   |  Release date | SHA256 file checksum |
+| :------:  |   :---:   |     :---:     |        :---:         |
+| 2016-2021 |  [piracema-raw-all-entries-06-2022](https://drive.google.com/file/d/1cbVhk3ZcM3n_HQi5wWJgwE0JZp6SXJhH/view?usp=sharing) |  2022-06-13  | 0e033c0c66d8ef6d2cb5007960c1e6d16b5213f4f0bc8415973aea0c7fe80665 | 
 **Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
 
 
