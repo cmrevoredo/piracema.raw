@@ -12,18 +12,6 @@ However, many phishing repositories end up providing data info very unbalanced, 
 
 *On the piracema.io page, in the <a href="https://piracema.io/repository" target="_blank">Repository</a> section, it is possible to show the piracema.raw data through an interface with filters.*
 
-## Entries content details
-|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
-|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
-|  2016  |      75,130     |      12,202       |            572           |        24,444         |            1050          |            -             | 
-|  2017  |      96,195     |      15,307       |          1,971           |        28,887         |           2,128          |            -             |  
-|  2018  |     189,491     |      22,355       |          7,809           |        66,854         |           4,025          |            -             | 
-|  2019  |     175,976     |      27,566       |         18,294           |        44,405         |           2,296          |            -             | 
-|  2020  |     218,459     |      32,441       |         23,167           |        57,505         |           2,430          |            -             |  
-|  2021  |     187,220     |      25,671       |         18,784           |        36,321         |           3,079          |         123,285          |  
-|  2022  |     425,963     |      93,815       |         40,991           |        28,767         |          13,318          |         187,962          |  
-|  Total |    1,368,434    |     229,357       |        111,588           |       287,183         |          28,326          |         311,247          |  
-
 ## Entries structure details
 <table>
   <tr>
@@ -75,6 +63,18 @@ However, many phishing repositories end up providing data info very unbalanced, 
     <td align="center">The domain age based on WHOIS lookup result (applied only .com, .net, and .edu registered domains)</td>
   </tr>
 </table>
+
+## Entries content details
+|  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
+|  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
+|  2016  |      75,130     |      12,202       |            572           |        24,444         |            1050          |            -             | 
+|  2017  |      96,195     |      15,307       |          1,971           |        28,887         |           2,128          |            -             |  
+|  2018  |     189,491     |      22,355       |          7,809           |        66,854         |           4,025          |            -             | 
+|  2019  |     175,976     |      27,566       |         18,294           |        44,405         |           2,296          |            -             | 
+|  2020  |     218,459     |      32,441       |         23,167           |        57,505         |           2,430          |            -             |  
+|  2021  |     187,220     |      25,671       |         18,784           |        36,321         |           3,079          |         123,285          |  
+|  2022  |     425,963     |      93,815       |         40,991           |        28,767         |          13,318          |         187,962          |  
+|  Total |    1,368,434    |     229,357       |        111,588           |       287,183         |          28,326          |         311,247          |  
 
 ## Download section *
 |   Year    |    Link   |  Release date | SHA256 file checksum |
