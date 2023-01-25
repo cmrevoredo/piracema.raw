@@ -111,4 +111,5 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |   Year    |    Link   |  Release date | SHA256 file checksum |
 | :------:  |   :---:   |     :---:     |        :---:         |
 | 2006-2022 |  contact us! |  2023-01-20  | - | 
+
 **Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
