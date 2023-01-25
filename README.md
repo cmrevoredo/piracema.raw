@@ -64,7 +64,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   </tr>
 </table>
 
-## Entries content details
+## Entries content summary
 |  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
 |  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
 |  2016  |      75,130     |      12,202       |            572           |        24,444         |            1050          |            -             | 
@@ -83,4 +83,24 @@ However, many phishing repositories end up providing data info very unbalanced, 
 
 **Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
 
-
+## Entries content no phishing summary
+|  Year  |   All entries  | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
+|  :---: |      :---:     |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
+|  2006  |      2,147     |      1,088        |           9              |          514          |            0             |          1,356           | 
+|  2007  |      8,479     |      3,260        |          52              |        1,158          |            3             |          4,657           | 
+|  2008  |      9,693     |      4,012        |         355              |        1,864          |            8             |          4,742           | 
+|  2009  |      7,076     |      2,753        |          80              |        2,265          |           26             |          3,666           | 
+|  2010  |      6,892     |      3,218        |         115              |        1,504          |           47             |          4,093           | 
+|  2011  |      8,597     |      4,221        |         101              |        1,537          |           79             |          5,061           | 
+|  2012  |      16,213    |      7,609        |         254              |        1,991          |          184             |          8,984           | 
+|  2013  |      13,152    |      6,821        |         144              |        1,543          |           65             |          7,476           | 
+|  2014  |      15,388    |      8,379        |         328              |        1,447          |          266             |          8,927           | 
+|  2015  |      6,839     |      3,944        |          94              |          979          |           66             |          4,141           | 
+|  2016  |      5,960     |      3,865        |          67              |          691          |           50             |          3,973           | 
+|  2017  |      5,527     |      3,640        |         123              |          753          |           28             |          3,718           |  
+|  2018  |     1,345      |        974        |          21              |          254          |            6             |            998           | 
+|  2019  |     2,650      |      1,858        |          87              |          626          |           14             |          1,891           | 
+|  2020  |     5,797      |      4,658        |         151              |        1,368          |           77             |          4,617           |  
+|  2021  |     3,384      |      2,938        |         298              |          699          |           62             |          2,794           |  
+|  2022  |     4,090      |      3,430        |          93              |          561          |          206             |          3,512           |  
+|  Total |    123,229     |     66,668        |       2,372              |       19,754          |        1,187             |         74,606           |  
