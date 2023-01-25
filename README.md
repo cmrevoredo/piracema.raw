@@ -71,7 +71,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   </tr>
   <tr>
     <td align="center">whois_creation_date</td>
-    <td align="center">BIGINT</td>
+    <td align="center">DATETIME</td>
     <td align="center">The domain age based on WHOIS lookup result (applied only .com, .net, and .edu registered domains)</td>
   </tr>
 </table>
