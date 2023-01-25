@@ -106,3 +106,9 @@ However, many phishing repositories end up providing data info very unbalanced, 
 |  2021  |     3,384      |      2,938        |         298              |          699          |           62             |          2,794           |  
 |  2022  |     4,090      |      3,430        |          93              |          561          |          206             |          3,512           |  
 |  Total |    123,229     |     66,668        |       2,372              |       19,754          |        1,187             |         74,606           |  
+
+### Download section *
+|   Year    |    Link   |  Release date | SHA256 file checksum |
+| :------:  |   :---:   |     :---:     |        :---:         |
+| 2006-2022 |  contact us! |  2023-01-20  | - | 
+**Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
