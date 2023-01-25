@@ -64,7 +64,7 @@ However, many phishing repositories end up providing data info very unbalanced, 
   </tr>
 </table>
 
-## Entries content summary
+## Summary of phishing entries
 |  Year  |   All entries   | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
 |  :---: |      :---:      |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
 |  2016  |      75,130     |      12,202       |            572           |        24,444         |            1050          |            -             | 
@@ -83,7 +83,9 @@ However, many phishing repositories end up providing data info very unbalanced, 
 
 **Note: The JSON files were compressed (7zip) with a password. Please request the password by email: cmrs@ecomp.poli.br*
 
-## Entries content no phishing summary
+## No phishing occurences (false positive)
+
+### Summary of no phishing entries
 |  Year  |   All entries  | With content-page | Hosting service detected | Target brand detected | Shortly service detected | With whois creation date |
 |  :---: |      :---:     |      :---:        |         :---:            |        :---:          |          :---:           |          :---:           | 
 |  2006  |      2,147     |      1,088        |           9              |          514          |            0             |          1,356           | 
